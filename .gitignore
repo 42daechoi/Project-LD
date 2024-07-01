@@ -1,0 +1,49 @@
+# Unity generated
+Temp/
+Obj/
+UnityGenerated/
+Library/
+Logs/
+MemoryCaptures/
+Builds/
+
+# OS generated
+.DS_Store
+Thumbs.db
+
+# Visual Studio / MonoDevelop generated
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.user
+*.pidb
+*.userprefs
+*.csproj.user
+*.tmp
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+
+# Rider generated
+.idea/
+*.sln.iml
+
+# Auto-generated VS/MD/Consulo solution and project files
+ExportedObj/
+.consulo/
+*.unityproj
+
+# Uncomment if needed: # *.booproj
+
+# Upsource
+.idea/
+
+# Crashlytics generated file
+crashlytics-build.properties
+
+# Packed Addressables
+/ServerData/
+/AssetBundles/
