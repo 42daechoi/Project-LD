@@ -26,6 +26,7 @@ Thumbs.db
 *.mdb
 *.opendb
 *.VC.db
+.vs/
 
 # Rider generated
 .idea/
