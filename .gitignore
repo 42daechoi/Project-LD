@@ -49,11 +49,6 @@ ExportedObj/
 *.opendb
 *.VC.db
 
-# Unity3D generated meta files
-*.pidb.meta
-*.pdb.meta
-*.mdb.meta
-
 # Unity3D generated file on crash reports
 sysinfo.txt
 
@@ -159,7 +154,6 @@ StyleCopReport.xml
 *_p.c
 *_h.h
 *.ilk
-*.meta
 *.obj
 *.iobj
 *.pch
@@ -433,7 +427,5 @@ healthchecksdb
 
 # Backup folder for Package Reference Convert tool in Visual Studio 2017
 MigrationBackup/
-
-*.zip
 
 # End of https://www.gitignore.io/api/unity,windows,visualstudio
