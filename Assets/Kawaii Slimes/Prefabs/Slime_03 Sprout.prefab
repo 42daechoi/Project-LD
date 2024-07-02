@@ -10,8 +10,7 @@ GameObject:
   m_Component:
   - component: {fileID: 7099655024501674457}
   - component: {fileID: -4329346326726592574}
-  - component: {fileID: -4003740794312214125}
-  - component: {fileID: 5900408747122092548}
+  - component: {fileID: 7440250119115895457}
   m_Layer: 0
   m_Name: Slime_03 Sprout
   m_TagString: Untagged
@@ -51,7 +50,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   _speed: 10
   waypoints: []
---- !u!95 &-4003740794312214125
+--- !u!95 &7440250119115895457
 Animator:
   serializedVersion: 5
   m_ObjectHideFlags: 0
@@ -72,21 +71,6 @@ Animator:
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorStateOnDisable: 0
   m_WriteDefaultValuesOnDisable: 0
---- !u!111 &5900408747122092548
-Animation:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 7099655024501674456}
-  m_Enabled: 1
-  serializedVersion: 3
-  m_Animation: {fileID: 0}
-  m_Animations: []
-  m_WrapMode: 0
-  m_PlayAutomatically: 1
-  m_AnimatePhysics: 0
-  m_CullingType: 0
 --- !u!1 &7099655024573255015
 GameObject:
   m_ObjectHideFlags: 0

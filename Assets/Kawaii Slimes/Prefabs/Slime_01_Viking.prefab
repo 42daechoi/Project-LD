@@ -227,8 +227,7 @@ GameObject:
   m_Component:
   - component: {fileID: 6312573360258431772}
   - component: {fileID: 2385406582955441510}
-  - component: {fileID: 2286545498390586702}
-  - component: {fileID: 8081518849051073483}
+  - component: {fileID: -3505321670510069936}
   m_Layer: 0
   m_Name: Slime_01_Viking
   m_TagString: Untagged
@@ -267,7 +266,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   _speed: 10
   waypoints: []
---- !u!95 &2286545498390586702
+--- !u!95 &-3505321670510069936
 Animator:
   serializedVersion: 5
   m_ObjectHideFlags: 0
@@ -288,21 +287,6 @@ Animator:
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorStateOnDisable: 0
   m_WriteDefaultValuesOnDisable: 0
---- !u!111 &8081518849051073483
-Animation:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 6688149642241925542}
-  m_Enabled: 1
-  serializedVersion: 3
-  m_Animation: {fileID: 0}
-  m_Animations: []
-  m_WrapMode: 0
-  m_PlayAutomatically: 1
-  m_AnimatePhysics: 0
-  m_CullingType: 0
 --- !u!1 &7588663013591350367
 GameObject:
   m_ObjectHideFlags: 0

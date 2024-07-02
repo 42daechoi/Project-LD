@@ -227,8 +227,7 @@ GameObject:
   m_Component:
   - component: {fileID: 6118174221721670358}
   - component: {fileID: -2053256780233279825}
-  - component: {fileID: -1530980303120204405}
-  - component: {fileID: 8275879665945203443}
+  - component: {fileID: 8983684016148155183}
   m_Layer: 0
   m_Name: Slime_03 Leaf
   m_TagString: Untagged
@@ -267,7 +266,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   _speed: 10
   waypoints: []
---- !u!95 &-1530980303120204405
+--- !u!95 &8983684016148155183
 Animator:
   serializedVersion: 5
   m_ObjectHideFlags: 0
@@ -288,21 +287,6 @@ Animator:
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorStateOnDisable: 0
   m_WriteDefaultValuesOnDisable: 0
---- !u!111 &8275879665945203443
-Animation:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 6891580169314388076}
-  m_Enabled: 1
-  serializedVersion: 3
-  m_Animation: {fileID: 0}
-  m_Animations: []
-  m_WrapMode: 0
-  m_PlayAutomatically: 1
-  m_AnimatePhysics: 0
-  m_CullingType: 0
 --- !u!1 &7647819984296596885
 GameObject:
   m_ObjectHideFlags: 0

@@ -138,8 +138,7 @@ GameObject:
   m_Component:
   - component: {fileID: 3467851699220123360}
   - component: {fileID: -9022770983814070400}
-  - component: {fileID: -2582045296877960980}
-  - component: {fileID: -4201126941462991498}
+  - component: {fileID: -2195379218718703686}
   m_Layer: 0
   m_Name: Slime_03 King
   m_TagString: Untagged
@@ -179,7 +178,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   _speed: 10
   waypoints: []
---- !u!95 &-2582045296877960980
+--- !u!95 &-2195379218718703686
 Animator:
   serializedVersion: 5
   m_ObjectHideFlags: 0
@@ -200,21 +199,6 @@ Animator:
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorStateOnDisable: 0
   m_WriteDefaultValuesOnDisable: 0
---- !u!111 &-4201126941462991498
-Animation:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 4281683080859636826}
-  m_Enabled: 1
-  serializedVersion: 3
-  m_Animation: {fileID: 0}
-  m_Animations: []
-  m_WrapMode: 0
-  m_PlayAutomatically: 1
-  m_AnimatePhysics: 0
-  m_CullingType: 0
 --- !u!1 &6226777814166338176
 GameObject:
   m_ObjectHideFlags: 0

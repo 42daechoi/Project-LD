@@ -226,8 +226,7 @@ GameObject:
   m_Component:
   - component: {fileID: 6216532115693788942}
   - component: {fileID: 1300798896969182802}
-  - component: {fileID: 152119000095988394}
-  - component: {fileID: -958931082776812764}
+  - component: {fileID: 2974393535010272231}
   m_Layer: 0
   m_Name: Slime_01
   m_TagString: Untagged
@@ -266,7 +265,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   _speed: 10
   waypoints: []
---- !u!95 &152119000095988394
+--- !u!95 &2974393535010272231
 Animator:
   serializedVersion: 5
   m_ObjectHideFlags: 0
@@ -287,21 +286,6 @@ Animator:
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorStateOnDisable: 0
   m_WriteDefaultValuesOnDisable: 0
---- !u!111 &-958931082776812764
-Animation:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 6705402075998324148}
-  m_Enabled: 1
-  serializedVersion: 3
-  m_Animation: {fileID: 0}
-  m_Animations: []
-  m_WrapMode: 0
-  m_PlayAutomatically: 1
-  m_AnimatePhysics: 0
-  m_CullingType: 0
 --- !u!1 &7534262480104691789
 GameObject:
   m_ObjectHideFlags: 0
